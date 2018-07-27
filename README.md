@@ -4,6 +4,6 @@ The main goal of TelloPlus is to add functionalities to the DJI Ryze Tello, so t
 Everyone can add their extension to the app, to do so, please read [this](http://telloplus.forumotion.eu/t1-how-to-create-and-submit-an-extension)
 [Website](http://telloplus.ml)
 
-![screenshot1](https://i.imgur.com/DiHRjtl.png)
-![screenshot2](https://i.imgur.com/SV8qvuB.png)
+<p style="text-align: center;">![screenshot1](https://i.imgur.com/DiHRjtl.png)</p>
+<p style="text-align: center;">![screenshot2](https://i.imgur.com/SV8qvuB.png)</p>
 
