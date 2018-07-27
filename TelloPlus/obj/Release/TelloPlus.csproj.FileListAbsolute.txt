@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\bin\Release\TelloPlus.exe.config
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\bin\Release\TelloPlus.exe.manifest
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\bin\Release\TelloPlus.application
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\bin\Release\TelloPlus.exe
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\bin\Release\TelloPlus.pdb
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.Form1.resources
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.installExtForm.resources
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.Properties.Resources.resources
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.exe.manifest
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.application
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.csproj.CopyComplete
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.exe
+C:\Users\admin\source\repos\TelloPlus\TelloPlus\obj\Release\TelloPlus.pdb
